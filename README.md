@@ -1,0 +1,2 @@
+# deploy-aleo
+aleo deploy
